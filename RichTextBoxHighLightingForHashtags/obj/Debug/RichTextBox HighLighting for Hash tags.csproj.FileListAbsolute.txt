@@ -1,0 +1,5 @@
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\RichTextBox HighLighting for Hash tags\bin\Debug\RichTextBox HighLighting for Hash tags.dll
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\RichTextBox HighLighting for Hash tags\bin\Debug\RichTextBox HighLighting for Hash tags.pdb
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\RichTextBox HighLighting for Hash tags\obj\Debug\RichTextBox HighLighting for Hash tags.csprojResolveAssemblyReference.cache
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\RichTextBox HighLighting for Hash tags\obj\Debug\RichTextBox HighLighting for Hash tags.dll
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\RichTextBox HighLighting for Hash tags\obj\Debug\RichTextBox HighLighting for Hash tags.pdb

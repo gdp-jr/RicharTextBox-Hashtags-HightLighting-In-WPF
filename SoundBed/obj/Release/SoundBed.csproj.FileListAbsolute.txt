@@ -1,0 +1,4 @@
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\SoundBed\bin\Release\SoundBed.dll
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\SoundBed\bin\Release\SoundBed.pdb
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\SoundBed\obj\Release\SoundBed.dll
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\SoundBed\obj\Release\SoundBed.pdb

@@ -1,0 +1,4 @@
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\Image Slide Show Library\bin\Release\Image Slide Show Library.dll
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\Image Slide Show Library\bin\Release\Image Slide Show Library.pdb
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\Image Slide Show Library\obj\Release\Image Slide Show Library.dll
+C:\Users\GelCell\documents\visual studio 2015\Projects\Richar highlighting WpfApplication\Image Slide Show Library\obj\Release\Image Slide Show Library.pdb
